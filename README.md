@@ -18,7 +18,7 @@ This analysis utilizes Stata.
 1. Download "Inappropriate PPI.zip" to your device.
 2. Unzip "Inappropriate PPI.zip".
 3. In the unzipped folder, navigate to the Scripts subfolder.
-4. Open "Inappropriate PPI.do"
+4. Open "Inappropriate PPI.do" using Stata.
 
    4A. Enter the path to the "Inappropriate PPI" folder between the quotation marks on line 13.
 
@@ -26,4 +26,4 @@ This analysis utilizes Stata.
 
    4C. Results will be saved in the "Tables" and "Figures" folders.
 
-   4D. Note that because the data are synethethic, results will not correspond to those from the publication.
+   4D. Note that because the data are synthethic, results will not correspond to those from the publication.
