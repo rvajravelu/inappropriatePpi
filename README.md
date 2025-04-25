@@ -1,4 +1,4 @@
-Statistical programing code for data analysis described in [INSERT CITATION WHEN PUBLISHED]
+Statistical programing code for data analysis described in JA Villars et al. Proton Pump Inhibitor Use Exceeding the U.S. Food and Drug Administration Approved Treatment Duration for Patients With Peptic Ulcer Disease: A Retrospective Cohort Study. Pharmacoepidemiol Drug Saf. DOI 10.1002/pds.70152
 
 Author: Ravy K. Vajravelu, MD MSCE
 
